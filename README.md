@@ -22,7 +22,7 @@ Telecom company, **Databel**, runs on a subscription-based model. Reducing custo
 # Analysis Process
 1. Data Validation- Confirmed no duplicate records in the customer table. Converted churn labels to binary (Churned = 1, Active = 0).
 
-2. Churn Rate Calculation Formula: Churned Customers / Total Customers. Result: Databel lost 1,750 customers, yielding a 27% churn rate.
+2. Churn Rate Calculation Formula: Churned Customers / Total Customers. Result: Databel lost 1,796 customers, yielding a 27% churn rate.
 
 3. Churn Reason Exploration: Competitors offering better devices and deals are the most common reason for churn. Raises the question: **Is Databel competitive enough?**
 
