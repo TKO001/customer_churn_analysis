@@ -1,5 +1,5 @@
 # Customer Churn Analysis
-Telecom company, **Databel**, runs on a subscription-based model. Reducing customer churn is a priority for them
+Telecom company, **Databel**, runs on a subscription-based model. Reducing customer churn is a priority.
 
 # Objectives
 1. Determine Databel’s overall churn rate.
